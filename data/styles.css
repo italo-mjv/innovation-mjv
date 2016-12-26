@@ -1,0 +1,138 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_1 {
+}
+.ellipse {
+}
+.image {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.button_line_red {
+  font-family:'Open Sans Semibold', 'Open Sans Regular', 'Open Sans';
+  font-weight:600;
+  font-style:normal;
+  font-size:13px;
+  color:#2F549B;
+}
+.button_line_red2 {
+  font-family:'Open Sans Semibold', 'Open Sans Regular', 'Open Sans';
+  font-weight:600;
+  font-style:normal;
+  font-size:13px;
+  color:#2F549B;
+}
+.link_button {
+  color:#006633;
+}
+.button_2 {
+  font-family:'Open Sans';
+  font-weight:400;
+  font-style:normal;
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Open Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#2F549B;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.flow_shape {
+}
+.snapshot {
+}
+.link_btn {
+  color:#898989;
+}
+.emergencia {
+  font-family:'Open Sans';
+  font-weight:bold;
+  font-style:normal;
+  font-size:16px;
+  color:#00539F;
+}
+.sanfona {
+  font-family:'Open Sans Light', 'Open Sans Regular', 'Open Sans';
+  font-weight:300;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
+}
+.icon {
+}
+.login {
+  font-family:'Open Sans Bold', 'Open Sans Regular', 'Open Sans';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
